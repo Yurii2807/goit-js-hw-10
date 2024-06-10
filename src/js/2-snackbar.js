@@ -49,4 +49,5 @@ formElem.addEventListener('submit', event => {
         position: 'topRight',
       });
     });
+    formElem.reset();
 });
